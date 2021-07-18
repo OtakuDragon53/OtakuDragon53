@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @OtakuDragon53
+- 👀 I’m interested in learning how to make stuff faster and how to code.
+- 🌱 I’m currently improving my content creation and have no major coding projects.
+- 📫 Feel free to reach out to me on Discord @OtakuDragon#5536 or other social media.
