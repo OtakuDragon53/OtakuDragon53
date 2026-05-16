@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @OtakuDragon53
-- 👀 I’m learning how to code games and want to optimize workflows.
+- 👋 Hello World! I’m @OtakuDragon53
+- 👀 I’m learning how to code games and make programs to improve my workflows.
 - 🌱 I’m currently attending college for game design and want to learn how to code better.
